@@ -3,7 +3,6 @@
 ## About Me
 I'm a Computer Science student at the University of Southern California with a passion for problem solving. I'm particularly fascinated by low-level and backend programming and how it interfaces with hardware to create efficient, powerful systems.
 
-- 🔭 **Current Project**: I’m currently working on my toy browser engine *DOM++*.
 - 🌱 **Learning**: Deep diving into OpenGL for graphics rendering and embracing the Rust programming language for its performance and safety features.
 - 🤔 **Looking for Help**: I'm looking to expand my programming skills across different domains and technologies. If you have expertise in areas like operating systems or web development, let's connect!
 - 📫 **How to Reach Me**: Drop me an email at dcwalker@usc.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/derick-walker/).
