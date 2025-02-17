@@ -10,10 +10,9 @@ I'm a Computer Science student at the University of Southern California with a p
 - ⚡ **Fun fact**: I use Hannah Montana Linux btw.
 
 ## Skills and Experience
-* 💻 **Languages**: C, C++, Java, Rust, Python, JavaScript, CSS, HTML, React, 
-* 🛠️ **Development Environments**: Visual Studio Code, Vim/NeoVim, and the Eclipse IDE.
-* 🔧 **Build Tools & CI/CD**: Make, CMake, Maven, gcc/g++, gdb, and more.
-* 🖌️ **Design & Multimedia**: Prior professional experience in Adobe After Effects, Photoshop, Illustrator and Premier
+* 💻 **Languages**: C, C++, Java, Rust, Python, JavaScript, CSS, HTML, React, etc
+* 🛠️ **Development Environments**: Visual Studio Code (primary), IntelliJ Idea (for Java), and Vim/NeoVim (for editing config).
+* 🔧 **Build Tools & CI/CD**: Make, CMake, Cargo, Ninja, Maven, gcc/g++, gdb, and more.
 
 ## Featured Projects
 - **Lightning Rock**: A forward-propogating neural network library written in C++ from scratch.
